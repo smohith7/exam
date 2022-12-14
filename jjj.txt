@@ -1,0 +1,21 @@
+var x = 10;
+if (x % 2 == 0)
+    console.log('even');
+else
+    console.log('odd');
+
+
+if (x % 2 == 0)
+    console.log('even');
+else
+    console.log('odd');
+
+
+    name='vikas'
+
+var x = 11;
+if (x % 2 == 0)
+    console.log('even');
+else
+    console.log('odd');
+.log('hello ${name}');
